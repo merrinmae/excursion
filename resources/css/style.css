@@ -1,0 +1,16 @@
+/* Universal styles */
+body {
+  font-family: verdana;
+  }
+  
+
+.main-heading {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  }
+  
+a {
+  font-size: 16px;
+  color: aquamarine;
